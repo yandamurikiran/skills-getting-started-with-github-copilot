@@ -68,7 +68,7 @@ activities = {
         "max_participants": 12,
         "participants": []
     }
-
+}
 
 @app.get("/")
 def root():
